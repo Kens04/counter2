@@ -2,7 +2,7 @@
   const $counter = document.getElementById("js-counter");
 
   const clickHandler = () => {
-    $counter.textContent = 1;
+    $counter.textContent = 0;
   };
 
   document
